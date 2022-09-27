@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/admin"
+    tools:context=".PainelAdmin">
+
+    <Button
+        android:id="@+id/btn_criar_conta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/buttons"
+        android:padding="10dp"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        android:text="Criar conta"/>
+
+    <Button
+        android:id="@+id/btn_deposito"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_criar_conta"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/buttons"
+        android:padding="10dp"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        android:text="Depositar"/>
+
+
+
+</RelativeLayout>

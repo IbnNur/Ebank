@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "609786913881",
+    "project_id": "ebank-7e95d",
+    "storage_bucket": "ebank-7e95d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609786913881:android:b7445eaed915e330287d48",
+        "android_client_info": {
+          "package_name": "finaldocurso.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609786913881-el44qv9915iv8l772157njujk00glgai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "finaldocurso.com",
+            "certificate_hash": "6750d8cfdbf3135fc39c858d6893feae4fd93b6b"
+          }
+        },
+        {
+          "client_id": "609786913881-7bg7i2ps8ntca55pjeus08urr72sk59r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7YY5jb5YJPntJXU7SGJsbw2HzodtozQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609786913881-7bg7i2ps8ntca55pjeus08urr72sk59r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
