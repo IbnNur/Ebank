@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_profile.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_deposito.xml.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\layout\\activity_deposito.xml"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_transferencia.xml.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\layout\\activity_transferencia.xml"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_input_design.xml.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\input_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_transfer.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\transfer.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_wallet.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_view.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\card_view.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_netflix.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\netflix.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_levantamento.xml.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\layout\\activity_levantamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_buttons.xml.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_ebank.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\ebank.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_chat.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\chat.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_amazon.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\amazon.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_coin.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\coin.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_admin.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\admin.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_notification.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_spotify.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\spotify.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_logout.xml.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_user.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_dribble.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\dribble.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_splash.xml.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_painel_admin.xml.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\layout\\activity_painel_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_pagina_inicial.xml.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\layout\\activity_pagina_inicial.xml"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_ebanks.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\ebanks.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_deposito.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\deposito.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\drawable_home.png.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_cadastro.xml.flat",
+        "source": "C:\\Users\\IbnNur\\AndroidStudioProjects\\Ebank\\app\\src\\main\\res\\layout\\activity_cadastro.xml"
+    }
+]

@@ -1,0 +1,223 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="finaldocurso.com"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml
+10
+11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+12    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.firebase:firebase-database:20.0.3] C:\Users\IbnNur\.gradle\caches\transforms-3\18cfd55cf106be79d89b3c538ab5de5a\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:25:5-79
+13-->[com.google.firebase:firebase-database:20.0.3] C:\Users\IbnNur\.gradle\caches\transforms-3\18cfd55cf106be79d89b3c538ab5de5a\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:25:22-76
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->[com.google.firebase:firebase-database:20.0.3] C:\Users\IbnNur\.gradle\caches\transforms-3\18cfd55cf106be79d89b3c538ab5de5a\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:26:5-67
+14-->[com.google.firebase:firebase-database:20.0.3] C:\Users\IbnNur\.gradle\caches\transforms-3\18cfd55cf106be79d89b3c538ab5de5a\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:26:22-64
+15    <uses-permission android:name="android.permission.WAKE_LOCK" />
+15-->[com.google.android.gms:play-services-measurement-api:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\0ef913d10470ceaf4bc18c2c16721b45\transformed\jetified-play-services-measurement-api-20.0.0\AndroidManifest.xml:24:5-68
+15-->[com.google.android.gms:play-services-measurement-api:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\0ef913d10470ceaf4bc18c2c16721b45\transformed\jetified-play-services-measurement-api-20.0.0\AndroidManifest.xml:24:22-65
+16    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+16-->[com.google.android.gms:play-services-measurement:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\8edd119f172d33bf3b4bd2b9e7d7aae4\transformed\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:26:5-110
+16-->[com.google.android.gms:play-services-measurement:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\8edd119f172d33bf3b4bd2b9e7d7aae4\transformed\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:26:22-107
+17
+18    <application
+18-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:5:5-40:19
+19        android:allowBackup="true"
+19-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:6:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.7.0] C:\Users\IbnNur\.gradle\caches\transforms-3\919b1e91a07ddbf34272a620f8cba519\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:7:9-43
+23        android:label="@string/app_name"
+23-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:8:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:9:9-54
+25        android:supportsRtl="true"
+25-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:10:9-35
+26        android:testOnly="true"
+27        android:theme="@style/Theme.Ebank" >
+27-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:11:9-43
+28        <activity
+28-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:12:9-14:40
+29            android:name="finaldocurso.com.Transferencia"
+29-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:13:13-42
+30            android:exported="false" />
+30-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:14:13-37
+31        <activity
+31-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:15:9-17:40
+32            android:name="finaldocurso.com.Levantamento"
+32-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:16:13-41
+33            android:exported="false" />
+33-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:17:13-37
+34        <activity
+34-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:18:9-20:40
+35            android:name="finaldocurso.com.Deposito"
+35-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:19:13-37
+36            android:exported="false" />
+36-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:20:13-37
+37        <activity
+37-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:21:9-23:40
+38            android:name="finaldocurso.com.PainelAdmin"
+38-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:22:13-40
+39            android:exported="false" />
+39-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:23:13-37
+40        <activity
+40-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:24:9-26:40
+41            android:name="finaldocurso.com.PaginaInicial"
+41-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:25:13-42
+42            android:exported="false" />
+42-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:26:13-37
+43        <activity
+43-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:27:9-29:40
+44            android:name="finaldocurso.com.Cadastro"
+44-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:28:13-37
+45            android:exported="false" />
+45-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:29:13-37
+46        <activity
+46-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:30:9-39:20
+47            android:name="finaldocurso.com.LoginActivity"
+47-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:31:13-42
+48            android:exported="true"
+48-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:32:13-36
+49            android:theme="@style/Splash" >
+49-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:33:13-42
+50            <intent-filter>
+50-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:34:13-38:29
+51                <action android:name="android.intent.action.MAIN" />
+51-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:35:17-69
+51-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:35:25-66
+52
+53                <category android:name="android.intent.category.LAUNCHER" />
+53-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:37:17-77
+53-->C:\Users\IbnNur\AndroidStudioProjects\Ebank\app\src\main\AndroidManifest.xml:37:27-74
+54            </intent-filter>
+55        </activity>
+56
+57        <service
+57-->[com.google.firebase:firebase-database:20.0.3] C:\Users\IbnNur\.gradle\caches\transforms-3\18cfd55cf106be79d89b3c538ab5de5a\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:29:9-35:19
+58            android:name="com.google.firebase.components.ComponentDiscoveryService"
+58-->[com.google.firebase:firebase-database:20.0.3] C:\Users\IbnNur\.gradle\caches\transforms-3\18cfd55cf106be79d89b3c538ab5de5a\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:30:13-84
+59            android:directBootAware="true"
+59-->[com.google.firebase:firebase-common:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\45b4a080f8d120803c4464eae4da744b\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+60            android:exported="false" >
+60-->[com.google.firebase:firebase-database:20.0.3] C:\Users\IbnNur\.gradle\caches\transforms-3\18cfd55cf106be79d89b3c538ab5de5a\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:31:13-37
+61            <meta-data
+61-->[com.google.firebase:firebase-database:20.0.3] C:\Users\IbnNur\.gradle\caches\transforms-3\18cfd55cf106be79d89b3c538ab5de5a\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:32:13-34:85
+62                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+62-->[com.google.firebase:firebase-database:20.0.3] C:\Users\IbnNur\.gradle\caches\transforms-3\18cfd55cf106be79d89b3c538ab5de5a\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:33:17-109
+63                android:value="com.google.firebase.components.ComponentRegistrar" />
+63-->[com.google.firebase:firebase-database:20.0.3] C:\Users\IbnNur\.gradle\caches\transforms-3\18cfd55cf106be79d89b3c538ab5de5a\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:34:17-82
+64            <meta-data
+64-->[com.google.firebase:firebase-firestore:24.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\d1716f973584b4b2af17a35d695ea6c1\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:20:13-22:85
+65                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+65-->[com.google.firebase:firebase-firestore:24.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\d1716f973584b4b2af17a35d695ea6c1\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:21:17-111
+66                android:value="com.google.firebase.components.ComponentRegistrar" />
+66-->[com.google.firebase:firebase-firestore:24.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\d1716f973584b4b2af17a35d695ea6c1\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:22:17-82
+67            <meta-data
+67-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\0a7b074b652d95014de176cc9faae700\transformed\jetified-firebase-storage-20.0.0\AndroidManifest.xml:33:13-35:85
+68                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+68-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\0a7b074b652d95014de176cc9faae700\transformed\jetified-firebase-storage-20.0.0\AndroidManifest.xml:34:17-107
+69                android:value="com.google.firebase.components.ComponentRegistrar" />
+69-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\0a7b074b652d95014de176cc9faae700\transformed\jetified-firebase-storage-20.0.0\AndroidManifest.xml:35:17-82
+70            <meta-data
+70-->[com.google.android.gms:play-services-measurement-api:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\0ef913d10470ceaf4bc18c2c16721b45\transformed\jetified-play-services-measurement-api-20.0.0\AndroidManifest.xml:30:13-32:85
+71                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+71-->[com.google.android.gms:play-services-measurement-api:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\0ef913d10470ceaf4bc18c2c16721b45\transformed\jetified-play-services-measurement-api-20.0.0\AndroidManifest.xml:31:17-139
+72                android:value="com.google.firebase.components.ComponentRegistrar" />
+72-->[com.google.android.gms:play-services-measurement-api:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\0ef913d10470ceaf4bc18c2c16721b45\transformed\jetified-play-services-measurement-api-20.0.0\AndroidManifest.xml:32:17-82
+73            <meta-data
+73-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\a844cd1cfb8e0f3354c1720799017d59\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+74                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+74-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\a844cd1cfb8e0f3354c1720799017d59\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+75                android:value="com.google.firebase.components.ComponentRegistrar" />
+75-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\a844cd1cfb8e0f3354c1720799017d59\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+76        </service>
+77
+78        <provider
+78-->[com.google.firebase:firebase-common:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\45b4a080f8d120803c4464eae4da744b\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+79            android:name="com.google.firebase.provider.FirebaseInitProvider"
+79-->[com.google.firebase:firebase-common:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\45b4a080f8d120803c4464eae4da744b\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+80            android:authorities="finaldocurso.com.firebaseinitprovider"
+80-->[com.google.firebase:firebase-common:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\45b4a080f8d120803c4464eae4da744b\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+81            android:directBootAware="true"
+81-->[com.google.firebase:firebase-common:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\45b4a080f8d120803c4464eae4da744b\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+82            android:exported="false"
+82-->[com.google.firebase:firebase-common:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\45b4a080f8d120803c4464eae4da744b\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+83            android:initOrder="100" />
+83-->[com.google.firebase:firebase-common:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\45b4a080f8d120803c4464eae4da744b\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+84
+85        <receiver
+85-->[com.google.android.gms:play-services-measurement:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\8edd119f172d33bf3b4bd2b9e7d7aae4\transformed\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:29:9-33:20
+86            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+86-->[com.google.android.gms:play-services-measurement:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\8edd119f172d33bf3b4bd2b9e7d7aae4\transformed\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:30:13-85
+87            android:enabled="true"
+87-->[com.google.android.gms:play-services-measurement:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\8edd119f172d33bf3b4bd2b9e7d7aae4\transformed\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:31:13-35
+88            android:exported="false" >
+88-->[com.google.android.gms:play-services-measurement:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\8edd119f172d33bf3b4bd2b9e7d7aae4\transformed\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:32:13-37
+89        </receiver>
+90
+91        <service
+91-->[com.google.android.gms:play-services-measurement:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\8edd119f172d33bf3b4bd2b9e7d7aae4\transformed\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:35:9-38:40
+92            android:name="com.google.android.gms.measurement.AppMeasurementService"
+92-->[com.google.android.gms:play-services-measurement:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\8edd119f172d33bf3b4bd2b9e7d7aae4\transformed\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:36:13-84
+93            android:enabled="true"
+93-->[com.google.android.gms:play-services-measurement:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\8edd119f172d33bf3b4bd2b9e7d7aae4\transformed\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:37:13-35
+94            android:exported="false" />
+94-->[com.google.android.gms:play-services-measurement:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\8edd119f172d33bf3b4bd2b9e7d7aae4\transformed\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:38:13-37
+95        <service
+95-->[com.google.android.gms:play-services-measurement:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\8edd119f172d33bf3b4bd2b9e7d7aae4\transformed\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:39:9-43:72
+96            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+96-->[com.google.android.gms:play-services-measurement:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\8edd119f172d33bf3b4bd2b9e7d7aae4\transformed\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:40:13-87
+97            android:enabled="true"
+97-->[com.google.android.gms:play-services-measurement:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\8edd119f172d33bf3b4bd2b9e7d7aae4\transformed\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:41:13-35
+98            android:exported="false"
+98-->[com.google.android.gms:play-services-measurement:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\8edd119f172d33bf3b4bd2b9e7d7aae4\transformed\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:42:13-37
+99            android:permission="android.permission.BIND_JOB_SERVICE" />
+99-->[com.google.android.gms:play-services-measurement:20.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\8edd119f172d33bf3b4bd2b9e7d7aae4\transformed\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:43:13-69
+100
+101        <activity
+101-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\IbnNur\.gradle\caches\transforms-3\61327252b97b04f60e697e9245a0fce3\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+102            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+102-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\IbnNur\.gradle\caches\transforms-3\61327252b97b04f60e697e9245a0fce3\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+103            android:exported="false"
+103-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\IbnNur\.gradle\caches\transforms-3\61327252b97b04f60e697e9245a0fce3\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+104            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+104-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\IbnNur\.gradle\caches\transforms-3\61327252b97b04f60e697e9245a0fce3\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+105
+106        <meta-data
+106-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\e0a06e1db4d4e2db64a90134643f665b\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+107            android:name="com.google.android.gms.version"
+107-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\e0a06e1db4d4e2db64a90134643f665b\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+108            android:value="@integer/google_play_services_version" />
+108-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\e0a06e1db4d4e2db64a90134643f665b\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+109
+110        <provider
+110-->[androidx.emoji2:emoji2:1.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\92708834b1c092ddf07d1634926df188\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+111            android:name="androidx.startup.InitializationProvider"
+111-->[androidx.emoji2:emoji2:1.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\92708834b1c092ddf07d1634926df188\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+112            android:authorities="finaldocurso.com.androidx-startup"
+112-->[androidx.emoji2:emoji2:1.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\92708834b1c092ddf07d1634926df188\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+113            android:exported="false" >
+113-->[androidx.emoji2:emoji2:1.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\92708834b1c092ddf07d1634926df188\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+114            <meta-data
+114-->[androidx.emoji2:emoji2:1.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\92708834b1c092ddf07d1634926df188\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+115                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+115-->[androidx.emoji2:emoji2:1.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\92708834b1c092ddf07d1634926df188\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+116                android:value="androidx.startup" />
+116-->[androidx.emoji2:emoji2:1.0.0] C:\Users\IbnNur\.gradle\caches\transforms-3\92708834b1c092ddf07d1634926df188\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+117            <meta-data
+117-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\IbnNur\.gradle\caches\transforms-3\d9db6b6f9ce68129424c2ebe8909f584\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+118                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+118-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\IbnNur\.gradle\caches\transforms-3\d9db6b6f9ce68129424c2ebe8909f584\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+119                android:value="androidx.startup" />
+119-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\IbnNur\.gradle\caches\transforms-3\d9db6b6f9ce68129424c2ebe8909f584\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+120        </provider>
+121    </application>
+122
+123</manifest>
